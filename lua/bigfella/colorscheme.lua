@@ -1,1 +1,1 @@
-local ok, _ = pcall(vim.cmd, 'colorscheme koehler')
+local ok, _ = pcall(vim.cmd, 'colorscheme snape')
